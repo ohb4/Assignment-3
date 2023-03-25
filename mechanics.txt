@@ -1,0 +1,7 @@
+Number of mechanics: 2
+
+Name		Age		ID
+omar		38		1
+ahmed		41		2
+
+

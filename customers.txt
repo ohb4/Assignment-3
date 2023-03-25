@@ -1,0 +1,8 @@
+Number of Customers: 4
+Name		ID		Appointment Time
+amr		100		2 : 30
+karim		101		2 : 45
+asser		102		2 : 40
+nour		103		2 : 50
+
+
